@@ -1,5 +1,5 @@
-#Homework1 
-##Rendering NCHU logo with openGL 
+# Homework1 
+## Rendering NCHU logo with openGL 
 
 原圖: 
  
