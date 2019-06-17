@@ -1,0 +1,16 @@
+Usage--
+Move camera:
+	滑鼠控制鏡頭
+Move robotic arm:
+	WSAD前後左右移動
+	Space:Move arm up.
+	X:Move arm down.
+	3:Move fingers.
+	4:Move thumb.
+其他:
+	Z:全螢幕.
+	B:Snipe your target with blending.
+	C:Trigger anti aliasing.
+	F:Fog your scene.
+	P:Offset your polygon.
+	V:Show the bounding box.
