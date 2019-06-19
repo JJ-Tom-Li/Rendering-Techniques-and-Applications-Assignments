@@ -1,7 +1,7 @@
 # Final Project -- SnowCraft打雪仗
 ## 遊戲說明 
 1. 如何開始遊戲?</br> 
-    <pre>點擊final/Debug/final.exe即可開始遊戲</pre>
+    <pre>點擊Debug/final.exe即可開始遊戲</pre>
 2. 如何操作? </br>
     <pre>開始選單:
     
