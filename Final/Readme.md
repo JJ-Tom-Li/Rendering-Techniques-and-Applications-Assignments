@@ -20,6 +20,8 @@
     <pre>Esc鍵可離開。</pre>
 4. 如何開啟作弊模式? 
 	  <pre>在開始畫面輸入:上上下下左右左右BA 可開啟作弊模式。</pre> 
+## 遊戲實際運行
+    https://youtu.be/vQiEWnX-k9A
 ## Directory tree
 <pre>
 |--final
@@ -57,3 +59,5 @@
 ## Informations
 程式作者: NCHU 資工四 李家駿,柯冠名 </br>
 Please contact us(email:tom86311@gmail.com) if you have any question. </br>
+## BONUS
+遊戲開發時期影片:https://youtu.be/VSA-CayRjq0
