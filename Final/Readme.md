@@ -1,9 +1,7 @@
 # Final Project -- SnowCraft打雪仗
 ## 遊戲說明 
 1. 如何開始遊戲?</br> 
-    <pre> (1)首先請先把final資料夾裡的model,stage,picture,music這四個資料夾複製到Debug資料夾裡。
-    (2)因為github上傳限制，請另找任一wav音樂檔，取名為start_bgm.wav，並放入Debug/music資料夾中。
-    (3)點擊Debug/final.exe即可開始遊戲</pre>
+    <pre>點擊Debug/final.exe即可開始遊戲</pre>
 2. 如何操作? </br>
     <pre>開始選單:
     
@@ -21,7 +19,7 @@
 4. 如何開啟作弊模式? 
 	  <pre>在開始畫面輸入:上上下下左右左右BA 可開啟作弊模式。</pre> 
 ## 遊戲實際運行
-    https://youtu.be/vQiEWnX-k9A
+   https://youtu.be/vQiEWnX-k9A  
 ## Directory tree
 <pre>
 |--final
