@@ -1,0 +1,23 @@
+﻿final.obj : error LNK2019: 在函式 __imp_glewInitmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutInitWindowPositionmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutInitWindowSizemain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutInitDisplayModemain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutMainLoopmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutPostRedisplay"void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutSwapBuffers"public: void __cdecl Battle_scene::Draw(unsigned char,int,int)" (?Draw@Battle_scene@@QEAAXEHH@Z) 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutWarpPointer"public: void __cdecl Battle_scene::Draw(unsigned char,int,int)" (?Draw@Battle_scene@@QEAAXEHH@Z) 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutSetCursor"void __cdecl init(void)" (?init@@YAXXZ) 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutIdleFuncmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutKeyboardFuncmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutSpecialFuncmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutDisplayFuncmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutMouseFuncmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutPassiveMotionFuncmain 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutWireCube"public: void __cdecl Battle_scene::Draw_2d(void)" (?Draw_2d@Battle_scene@@QEAAXXZ) 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutSolidCube"public: void __cdecl Battle_scene::Draw_2d(void)" (?Draw_2d@Battle_scene@@QEAAXXZ) 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp_glutSolidSphere"void __cdecl load_all_models(void)" (?load_all_models@@YAXXZ) 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp___glutInitWithExitglutInit_ATEXIT_HACK 中參考了無法解析的外部符號
+final.obj : error LNK2019: 在函式 __imp___glutCreateWindowWithExitglutCreateWindow_ATEXIT_HACK 中參考了無法解析的外部符號
+lib\freeglut.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+lib\glew32.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\x64\Debug\final.exe : fatal error LNK1120: 20 個無法解析的外部符號

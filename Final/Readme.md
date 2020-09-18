@@ -19,7 +19,7 @@
 4. 如何開啟作弊模式? 
 	  <pre>在開始畫面輸入:上上下下左右左右BA 可開啟作弊模式。</pre> 
 ## 遊戲實際運行
-   https://youtu.be/vQiEWnX-k9A  
+   https://youtu.be/MNYXJgYMQYk  
 ## Directory tree
 <pre>
 |--final

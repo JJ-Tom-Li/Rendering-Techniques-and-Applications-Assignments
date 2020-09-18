@@ -1,0 +1,104 @@
+﻿  stdafx.cpp
+  final.cpp
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\constants\init_constants.h(51,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\constants\init_constants.h(57,27): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\scene.h(36,11): warning C4101: 'mouseX': 未參考的區域變數
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\scene.h(36,19): warning C4101: 'mouseY': 未參考的區域變數
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(78,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(84,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(85,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(86,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(87,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(94,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(100,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(101,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(102,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(103,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(110,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(116,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(117,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\start_menu.cpp(119,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\snowball.cpp(49,58): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\snowball.cpp(49,43): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\snowball.cpp(49,28): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\hero.cpp(145,58): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\hero.cpp(145,43): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\hero.cpp(145,28): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\enemy.cpp(179,58): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\enemy.cpp(179,43): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\enemy.cpp(179,28): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\enemy.cpp(181,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(81,1): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(121,21): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(148,31): warning C4244: '引數': 將 'double' 轉換為 'const _Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(174,41): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(174,27): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(174,13): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(182,8): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(182,66): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(190,21): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(198,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(199,124): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(199,88): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(199,50): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(218,24): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(226,86): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(226,52): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(237,102): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(237,49): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(238,34): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(250,93): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(250,52): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(261,20): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(262,78): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(262,49): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(267,27): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(268,24): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(276,25): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(283,112): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(283,52): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(284,37): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(296,98): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(296,53): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(336,22): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(338,24): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(353,24): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(385,128): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(385,73): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(439,21): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(444,21): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(461,21): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\battle_scene.cpp(470,21): warning C4018: '<': signed/unsigned 不相符
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\win_scene.cpp(48,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\scene\win_scene.cpp(49,1): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  glm.cpp
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(305,39): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(306,39): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(307,39): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(309,39): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(310,39): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(311,39): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(817,21): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(818,21): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(819,21): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(822,14): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1022,17): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1180,20): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1187,43): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1188,43): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1238,11): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1239,13): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1247,27): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1249,15): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1252,30): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1254,25): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1257,39): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(1258,37): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\glm.cpp(243): warning C4172: 傳回區域變數或暫存的位址: dir
+E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\final\include\snowcraft\objects\hero.cpp(77): warning C4715: 'Hero::chargeShot': 不是所有控制路徑都傳回值
+  final.vcxproj -> E:\Github\Rendering-Techniques-and-Applications-Assignments\Final\Debug\final.exe
